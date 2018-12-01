@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 1.12.2018</title>
+    <link>https://1122018.ca/tags/</link>
+    <description>Recent content in Tags on 1.12.2018</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2018 - 1.12.2018</copyright>
+    <lastBuildDate>Sat, 01 Dec 2018 11:22:10 -0800</lastBuildDate>
+    
+	<atom:link href="https://1122018.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Change</title>
+      <link>https://1122018.ca/tags/change/</link>
+      <pubDate>Sat, 01 Dec 2018 11:22:10 -0800</pubDate>
+      
+      <guid>https://1122018.ca/tags/change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Today</title>
+      <link>https://1122018.ca/tags/today/</link>
+      <pubDate>Sat, 01 Dec 2018 11:22:10 -0800</pubDate>
+      
+      <guid>https://1122018.ca/tags/today/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
