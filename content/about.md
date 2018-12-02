@@ -6,7 +6,7 @@ tags = []
 title = "About"
 weight = 30
 [menu.main]
-weight = 30
+weight = 1
 
 +++
 This is a personal blog that will hopefully serve as a record for how I changed my life.

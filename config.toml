@@ -1,32 +1,27 @@
 baseurl = "https://1122018.ca/"
-title = "1.12.2018"
-copyright = "Copyright &copy; 2018 - 1.12.2018"
 canonifyurls = true
-theme = "kiera"
-
-paginate = 3
-
-summaryLength = 30
+copyright = "Copyright &copy; 2018 - 1.12.2018"
 enableEmoji = true
+paginate = 3
 pygmentsCodeFences = true
-
+summaryLength = 30
+theme = "kiera"
+title = "1.12.2018"
 [author]
-    name = ""
-    github = ""
-    gitlab = ""
-    linkedin = ""
-    facebook = ""
-    twitter = ""
-    instagram = ""
-
+facebook = ""
+github = ""
+gitlab = ""
+instagram = ""
+linkedin = ""
+name = ""
+twitter = ""
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 3
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 2
 [params]
-    tagline = "Today I changed my life."
-
-[[menu.main]]
-    name = "Home" #Name in the navigation bar
-    weight = 10 #The larger the weight, the more on the right this item will be
-    url = "/" #URL address
-[[menu.main]]
-    name = "Posts"
-    weight = 20
-    url = "/posts/"
+tagline = "Today I changed my life."
