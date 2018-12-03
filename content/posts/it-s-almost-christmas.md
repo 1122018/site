@@ -19,7 +19,7 @@ I started with clearing out a small under the stairs storage spot that we had ju
 
 ![](/uploads/IMG_8436.JPG)
 
-I also cooked some real food. No store bought sauces/oven-ready whatever/etc. I refilled my spice cupboard and tried my had at making some real "fajita" style wraps. They turned out alright, I'll definitely try to improve on my recipe in the future. Maybe I'll write about what I cook later too.
+I also cooked some real food. No store bought sauces/oven-ready whatever/etc. I refilled my spice cupboard and tried my hand at making some real "fajita" style wraps. They turned out alright, I'll definitely try to improve on my recipe in the future. Maybe I'll write about what I cook later too.
 
 After that room was cleaned, I also got all of our Christmas decorations out, and put up all the exterior lights while my wife decorated inside. Everything is feeling very festive now.
 
