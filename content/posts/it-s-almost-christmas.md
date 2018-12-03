@@ -22,7 +22,9 @@ I started with clearing out a small under the stairs storage spot that we had ju
 
 I also cooked some real food. No store bought sauces/oven-ready whatever/etc. I refilled my spice cupboard and tried my had at making some real "fajita" style wraps. They turned out alright, I'll definitely try to improve on my recipe in the future. Maybe I'll write about what I cook later too.
 
-Today I am cleaning the walls and will do at least one coat of primer. Hopefully two.
+After that room was cleaned, I also got all of our Christmas decorations out, and put up all the exterior lights while my wife decorated inside. Everything is feeling very festive now.
+
+Today I will be cleaning the walls and will do at least one coat of primer. Hopefully two.
 
 On another topic:
 
