@@ -1,7 +1,6 @@
 +++
 categories = ["daily"]
 date = "2018-12-04T21:33:44-08:00"
-draft = true
 tags = ["today", "change"]
 title = "A late introduction"
 
