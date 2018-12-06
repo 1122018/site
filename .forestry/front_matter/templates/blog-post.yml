@@ -20,6 +20,7 @@ fields:
   name: categories
   label: categories
 pages:
+- content/posts/finding-more-energy.md
 - content/posts/it-s-almost-christmas.md
 - content/posts/yesterday-i-changed-my-life.md
 - content/posts/a-late-introduction.md
