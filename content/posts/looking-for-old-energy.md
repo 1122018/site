@@ -1,9 +1,8 @@
 +++
 categories = ["daily"]
 date = "2018-12-06T20:54:17-08:00"
-draft = true
 tags = ["today", "change"]
-title = "Looking for old energy"
+title = "Finding less energy"
 
 +++
 ![](/uploads/IMG_8485.JPG)
