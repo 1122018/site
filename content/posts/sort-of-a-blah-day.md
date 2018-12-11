@@ -1,7 +1,6 @@
 +++
 categories = ["daily"]
 date = "2018-12-10T21:13:00-08:00"
-draft = true
 tags = ["today", "change"]
 title = "Sort of a \"blah\" day"
 
