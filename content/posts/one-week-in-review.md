@@ -1,7 +1,7 @@
 +++
-categories = ["daily"]
+categories = ["daily", "review"]
 date = "2018-12-07T21:52:56-08:00"
-tags = ["today", "change", "review", "one week"]
+tags = ["today", "change", "one week"]
 title = "One Week In Review"
 
 +++
