@@ -1,7 +1,6 @@
 +++
 categories = ["daily"]
 date = "2018-12-12T21:14:00-08:00"
-draft = true
 tags = ["today", "change"]
 title = "Looking for excuses"
 
