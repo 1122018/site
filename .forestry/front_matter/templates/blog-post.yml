@@ -21,6 +21,7 @@ fields:
   label: categories
 pages:
 - content/posts/finding-more-energy.md
+- content/posts/looking-for-excuses.md
 - content/posts/looking-for-old-energy.md
 - content/posts/one-week-in-review.md
 - content/posts/starting-to-actually-run.md
