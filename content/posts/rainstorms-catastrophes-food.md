@@ -51,7 +51,7 @@ Sauced up, simmering down
 
 Complete and ready to eat. 
 
-It was good. Could have done with a little less reducing but I forgot to push start on the rice cooker. I will definitely try and make this again in the future, and probably forget how I did it the first time and it just will never be as good as this time again. As per usual.
+It was good. Could have done with a little less reducing but I forgot to push start on the rice cooker. I will definitely try and make this again in the future, and probably forget how I did it the first time and it just will never be as good as this time was. As per usual.
 
 ***
 
