@@ -1,7 +1,6 @@
 +++
 categories = ["daily", "food"]
 date = "2018-12-13T19:21:45-08:00"
-draft = true
 tags = ["today", "change"]
 title = "Rainstorms, Catastrophes & Food"
 
