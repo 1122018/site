@@ -13,7 +13,7 @@ For some reason this image uploaded upside down. It's not upside down on my phon
 
 What's the deal with the images anyways?
 
-Basically, it's just a small piece of proof that I got outside. Everyday.
+Basically, it's just a small piece of proof that I got outside. Every day.
 
 ![](/uploads/IMG_8563.JPG)
 
