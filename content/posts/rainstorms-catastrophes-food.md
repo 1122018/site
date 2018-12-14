@@ -15,6 +15,8 @@ What's the deal with the images anyways?
 
 Basically, it's just a small piece of proof that I got outside. Every day.
 
+Here's another one I took today:
+
 ![](/uploads/IMG_8563.JPG)
 
 I just enjoyed how glowy the ship looked in the hard rain this morning.
