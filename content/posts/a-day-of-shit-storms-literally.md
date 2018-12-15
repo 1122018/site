@@ -9,7 +9,7 @@ title = "A day of shit storms, literally"
 
 Today started out pretty normal. With the exception of scrambling in the morning to fix the software issues that started yesterday, it continued fairly normally as well. Right up until it didn't. 
 
-11:55 AM my wife texts me some cryptic question about if I sent an e-transfer out of our account. Long story short, somehow someway someone got her login information, and subsequently emptied our account by sending e-transfers to themselves. Fun.
+11:55 AM my wife texts me some cryptic question about if I sent an e-transfer out of our bank account. Long story short, somehow someway someone got her login information, and subsequently emptied our account by sending e-transfers to themselves. Fun.
 
 It should be sorted out, and the money will be returned. But that's far from a full resolution. Somehow her password got exposed; phones, computers, work computers, there was a lot of devices to check for any sign of viruses/security holes. In the end, nothing really came back as suspicious. So I have to believe that either something is wrong with the banking system or they in some unlikely turn of events, just brute-forced their way into our account.
 
