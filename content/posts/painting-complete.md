@@ -1,7 +1,6 @@
 +++
 categories = ["daily"]
-date = "2018-12-17T06:43:57-08:00"
-draft = true
+date = "2018-12-16T20:43:00-08:00"
 tags = ["today", "change"]
 title = "Painting complete"
 
