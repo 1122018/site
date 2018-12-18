@@ -1,7 +1,6 @@
 +++
 categories = ["daily", "food"]
 date = "2018-12-17T20:02:45-08:00"
-draft = true
 tags = ["today", "change"]
 title = "Wim Hof Method & Desk Construction"
 
