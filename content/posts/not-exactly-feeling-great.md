@@ -1,7 +1,6 @@
 +++
 categories = ["daily"]
 date = "2018-12-18T20:37:39-08:00"
-draft = true
 tags = ["today", "change"]
 title = "Not exactly feeling great"
 
