@@ -9,7 +9,7 @@ title = "Whirlwind days"
 
 Another upside down image... Ok.
 
-I feel like my days are just shooting past without ever really having enough time to get anything substantial done. It's quite stressful and I can feel myself getting burnt out at work. 
+I feel like my days are just shooting past without ever really having enough time to get anything substantial done. It's quite stressful and I can feel myself getting burnt out at work.
 
 My position in my daily work is very loose, and I am in more of a jack of all trades support role, rather than having a particular job title. Which often makes my workload hectic and overwhelming. Yet, I make an entry level wage. It's not fulfilling work, and it is really becoming a grind. The job is only temporary, and was started with the very clear intention that it was my 2nd priority (My own business being #1), and I would work full time temporarily to supplement my income and help the business through the holiday season. Over time it has become more and more demanding, to the point that I am now regularly having to make sacrifices in my own business to accommodate.
 
@@ -23,4 +23,4 @@ I am also intensely motivated to not to have to rely on a job that pays not much
 
 > By the time that I have been writing this for a year, I will be in a financially comfortable place, I will have a successful business, and my family and I will be happy. And I will work as hard as I need to in order to make that a reality.
 >
-> * me, today.
+> \- me, today.
