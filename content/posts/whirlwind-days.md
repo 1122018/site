@@ -22,4 +22,6 @@ I am also intensely motivated to not to have to rely on a job that pays not much
 
 ***
 
-By the time that I have been writing this for a year, I will be in a financially comfortable place, I will have a successful business, and my family and I will be happy. And I will work as hard as I need to in order to make that a reality.
+> By the time that I have been writing this for a year, I will be in a financially comfortable place, I will have a successful business, and my family and I will be happy. And I will work as hard as I need to in order to make that a reality.
+>
+> * me, today.
