@@ -19,4 +19,4 @@ My walk today was just that, a walk. My shin was killing me a little bit so I tr
 
 1 more day of work work until I get can focus hard around the holidays on business work.
 
-I am going to make 2019 my bitch.
+Still lots to do to prepare for 2019.
