@@ -1,7 +1,7 @@
 +++
-categories = ["Daily", "Food"]
+categories = ["daily", "food"]
 date = "2018-12-21T21:11:00-08:00"
-tags = ["Today", "change"]
+tags = ["today", "change"]
 title = "Staff Christmas party "
 
 +++
