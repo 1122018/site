@@ -7,7 +7,7 @@ title = "Staff Christmas party "
 +++
 ![](/uploads/1378702B-3F34-40DC-A867-31D1F57A98E3.jpeg)
 
-Tonight was a staff Christmas party for my work. It was a pretty good time. Had some good food and made off with some sweet shades from the gift exchange. They were some “As seen on tv” polarized glasses. Makes me think of the YouTube channel crazy russian hacker.
+Tonight was a staff Christmas party for my work. It was a pretty good time. Had some good food and made off with some sweet shades from the gift exchange. They were some “As seen on tv” polarized glasses. Makes me think of the YouTube channel CrazyRussianHacker.
 
 This morning I had “eggs rancheros”. I have no idea if that’s the real name for a dish like this. My dad loaded me up with ingredients after stopping by his house yesterday while we were making Christmas rounds dropping off cookies my wife baked. The breakfast looked like this:
 
