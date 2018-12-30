@@ -1,7 +1,6 @@
 +++
 categories = ["daily"]
 date = "2018-12-29T00:00:00-08:00"
-draft = true
 tags = ["today", "change"]
 title = "Beat Saber is neat"
 
