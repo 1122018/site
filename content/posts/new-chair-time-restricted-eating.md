@@ -1,6 +1,6 @@
 +++
 categories = ["daily"]
-date = "2019-01-03T21:00:00-08:00"
+date = "2019-01-03T21:30:00-08:00"
 tags = ["today", "change"]
 title = "New chair & time restricted eating"
 
