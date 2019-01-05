@@ -1,7 +1,6 @@
 +++
 categories = ["daily"]
 date = "2019-01-04T12:00:00-08:00"
-draft = true
 tags = ["today", "change"]
 title = "Day 1 of time-restricted eating"
 
