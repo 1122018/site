@@ -20,6 +20,7 @@ fields:
   name: categories
   label: categories
 pages:
+- content/posts/sick.md
 - content/posts/starting-to-feel-sick.md
 - content/posts/beat-saber-is-neat.md
 - content/posts/snap-freeze-and-hummus.md
