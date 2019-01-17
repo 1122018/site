@@ -17,9 +17,9 @@ I will update my step goal to be 12,000 from now on.
 
 ##### Food
 
-I do not think that I have truly gotten into ketosis yet, though I've made a large effort in changing my eating habits. I have adopted a mostly "keto-ish" and "vegan-conscious" diet. I have not cut out meat by any means, but I am often exploring vegan options and including many more vegetarian/vegan dishes into my daily meals. 
+I do not think that I have truly gotten into ketosis yet, though I've made a large effort in changing my eating habits. I have adopted a mostly "keto-ish" and "vegan-conscious" diet. I have not cut out meat by any means, but I am often exploring vegan options and including many more vegetarian/vegan dishes into my daily meals.
 
-As for the keto, I am trying to eventually achieve ketosis and to maintain it at least as long as the rest of my weight loss takes. Though, in the meantime, I have cut out carbs for the most part. I do not eat bread/pasta/added sugar or high carb fruits/veg/other foods. 
+As for the keto, I am trying to eventually achieve ketosis and to maintain it at least as long as the rest of my weight loss takes. Though, in the meantime, I have cut out carbs for the most part. I do not eat bread/pasta/added sugar or high carb fruits/veg/other foods.
 
 I do not plan to stick to this way of eating forever. Once I've achieved my goal weight or have started putting a more serious focus on building muscle, I want to incorporate carbs back into my diet. That said, I will not reincorporate bread, pasta or added sugars. So I will eat things like potatoes, and carb heavy fruits without worrying about my daily carb intake on those items.
 
@@ -27,9 +27,9 @@ I do not plan to stick to this way of eating forever. Once I've achieved my goal
 
 ##### Weight
 
-Today I hit a weight milestone. I have hit this milestone multiple times in the past, but this time it is different. It is different because I was truly motivated this time. It is different because I have more motivation now than when I started. It even feels different than the previous times I lost weight. When I started this on December 1st, 2018 I was 225-228 lbs. I don't know the exact weight as I wasn't actively weighing myself or tracking any weights at the time. But it was at least 225 lbs. For my height, that put me _well_ into the category of being obese. 
+Today I hit a weight milestone. I have hit this milestone multiple times in the past, but this time it is different. It is different because I was truly motivated this time. It is different because I have more motivation now than when I started. It even feels different than the previous times I lost weight. When I started this on December 1st, 2018 I was 225-228 lbs. I don't know the exact weight as I wasn't actively weighing myself or tracking any weights at the time. But it was at least 225 lbs. For my height, that put me _well_ into the category of being obese.
 
-As of today I have hit a weight that according to online BMI calculators (which I know are not necessarily accurate or to be relied upon for any individual body type) that puts me just under the threshold for being categorized as just overweight, rather than obese.
+As of today I have hit a weight that according to online BMI calculators (which I know are not necessarily accurate or to be relied upon for any individual body type) that puts me just under the threshold for being categorized as just overweight, rather than obese. To clarify, I do understand that this rate of weight loss is not exactly what is commonly considered "healthy". 1-2 lbs per week is what would be generally considered healthy. In the past, my weight loss, and I think most large people's loss, always starts very rapidly. I dropped the first 10-15 lbs very quickly. The next 5 was much slower. And the last 5 even slower. 
 
 ![](/uploads/IMG_8896.JPG)
 
