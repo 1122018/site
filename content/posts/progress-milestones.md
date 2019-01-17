@@ -1,7 +1,6 @@
 +++
 categories = ["daily"]
 date = "2019-01-16T12:00:00-08:00"
-draft = true
 tags = ["today", "change"]
 title = "Progress & Milestones"
 
