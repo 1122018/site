@@ -9,6 +9,6 @@ title = "This is no longer a daily blog"
 
 Writing a post every day is tedious, and I don't enjoy it. So why would I do it? I was writing this blog to keep myself in check. But after a couple months now of doing it, I don't need the writing to get shit done every day. I am still going to post. But it will just be more whenever I feel like it. When I have something to share.
 
-The entire point of this was just to document my progression from a bum to hopefully being much more successful in life, work and everything. I don't need or want to write a post that is often meaningless every day to achieve that. 
+The entire point of this was just to document my progression from a bum to hopefully being much more successful in life, work and everything. I don't need or want to write a post that is often meaningless every day to achieve that. I will post when I have real progression to show, and things I want to document. Those events were very rapid in the beginning because I started a million new things at once. But now it is turning into a more regular progression. So the need to force myself to write everyday is an unnecessary burden I was giving myself.
 
 I have more important things to do.
